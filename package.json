@@ -1,0 +1,1 @@
+{"name":"spezzano-sila-ambienti-virtuali","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"node scripts/build.mjs","check":"node scripts/check.mjs","preview":"vite preview --host 0.0.0.0"},"dependencies":{"react":"^19.2.0","react-dom":"^19.2.0","react-router-dom":"^7.9.0","leaflet":"^1.9.4"},"devDependencies":{"vite":"^7.1.0"}}
